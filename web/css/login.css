@@ -1,0 +1,55 @@
+input[type=text],[type=password], select {
+    width: 240px;
+    padding: 7px 20px;
+    
+    margin: 7px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 6px;
+    box-sizing: border-box;
+	font-size:14px;
+}
+
+input[type=submit] {
+    width: 100px;
+    background-color:skyblue;
+    color: white;
+	float:left;
+        font-family: 'Roboto', sans-serif;
+    padding: 8px 15px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+	font-size:16px;
+}
+
+input[type=submit]:hover {
+    background-color: black;
+}
+
+div {
+    
+    border-radius: 16px;
+    background-color: #f2f2f2;
+    padding: 20px;
+	position: fixed;
+        margin-left: 537px;
+        margin-top: 30px;
+        
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+h1,h2 {
+    font-family: 'Roboto', sans-serif;
+    opticity:0.3;
+   
+    
+  
+    
+}
